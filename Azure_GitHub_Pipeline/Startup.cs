@@ -26,6 +26,7 @@ namespace Azure_GitHub_Pipeline
             services.AddRazorPages();
             //this is project who connects github to pipelines
             //Always first change o commit
+            //Always first change o commit
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
